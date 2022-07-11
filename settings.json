@@ -1,0 +1,29 @@
+{
+  "development": false,
+  "galaxy.meteor.com": {
+    "env": {
+      "ROOT_URL": "https://www.acromaniagame.com",
+      "MONGO_URL": "mongodb+srv://acromania:ozJUxKCWJ3qHaytA@acromania.j3kjl.mongodb.net/acromania?retryWrites=true&w=majority"
+    }
+  },
+  "gameActiveTimeout": 1200000,
+  "adminUsers": ["8M3KisvcCHehFZaPM"],
+  "prerenderio": {
+    "host": "www.acromaniagame.com",
+    "token": "eElqSwRjRbhlfmBVzDVI"
+  },
+  "acromania": {
+    "minimumPlayers": 3,
+    "newGameDelay": 1000,
+    "acronyms": {
+      "letters": "AAAAAAAAAABBBBBCCCCDDDEEFFFFGGHHHHHHHIIIIIIJJKKLLLMMMMNNOOOOOOPPPQRRSSSSSSSSTTTTTTTTTTTTUUVVWWWWWWWXXYYZZ"
+    }
+  },
+  "public": {
+    "adsEnabled": false,
+    "analyticsSettings": {
+      "Google Analytics": {"trackingId": "XXXXX"}
+    },
+    "leaderboardMinimumGamesToBeVisible": 1
+  }
+}

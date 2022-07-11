@@ -1,0 +1,29 @@
+{
+  "name": "acromania",
+  "version": "1.0.0",
+  "description": "Acromania",
+  "dependencies": {
+    "@babel/runtime": "^7.12.5",
+    "bcrypt": "^5.0.0",
+    "classnames": "^2.2.6",
+    "cron": "^1.8.2",
+    "lodash": "^4.17.3",
+    "meteor-node-stubs": "^1.0.0",
+    "prerender-node": "^3.2.5",
+    "prop-types": "^15.7.2",
+    "react": "^17.0.1",
+    "react-addons-pure-render-mixin": "^15.6.3",
+    "react-animation": "^1.2.2",
+    "react-autolink": "^0.2.1",
+    "react-dom": "^17.0.1",
+    "react-emojione": "^5.0.0",
+    "react-gif-player": "^0.4.2",
+    "react-highcharts": "^16.1.0",
+    "react-mounter": "^1.2.0",
+    "react-multi-bar-slider": "^1.4.0",
+    "react-simple-animate": "^3.3.11",
+    "timesync": "^1.0.8",
+    "trueskill": "0.0.2",
+    "twitter": "^1.7.1"
+  }
+}
